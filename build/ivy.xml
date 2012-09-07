@@ -1,0 +1,24 @@
+<ivy-module version="2.0"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation=
+                    "http://ant.apache.org/ivy/schemas/ivy.xsd">
+
+    <info organisation='oefg.TestTool' module='TestToolSuite'/>
+
+    <configurations defaultconfmapping="*->default">
+        <conf name="compile" description="Implementation and private API's"/>
+        <conf name="test" extends="compile"/>
+        <conf name="default" extends="compile"/>
+    </configurations>
+
+    <publications>
+        <artifact name="TestToolSuite" type="jar"/>
+    </publications>
+
+    <dependencies>
+        <dependency org="javax.servlet.jsp" name="jsp-api" rev="2.0"/>
+        <dependency org="javax.servlet.jsp.jstl" name="jstl-api" rev="1.2"/>
+        <dependency org="javax.servlet" name="jstl" rev="1.2"/>
+        <dependency org="taglibs" name="standard" rev="1.0.4"/>
+    </dependencies>
+</ivy-module>

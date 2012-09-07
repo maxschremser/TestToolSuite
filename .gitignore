@@ -95,6 +95,11 @@ DocProject/Help/html
 
 # Click-Once directory
 publish
+out
+target
+classes
+test-classes
+war
 
 # Others
 [Bb]in
@@ -137,7 +142,6 @@ Desktop.ini
 *.egg
 *.egg-info
 dist
-build
 eggs
 parts
 bin

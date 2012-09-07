@@ -2,10 +2,208 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="578afd73-0c5e-4d30-82d0-cc54b53bcebf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/build.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/ivy.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolService_war_exploded\WEB-INF\classes\at\oefg1880\ws\server\TestToolService.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolService_war_exploded\WEB-INF\classes\resources\version.properties" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolService_war_exploded\WEB-INF\lib\TestToolService.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolService_war_exploded\WEB-INF\lib\axis-1.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolService_war_exploded\WEB-INF\lib\axis-jaxrpc-1.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolService_war_exploded\WEB-INF\lib\axis-saaj-1.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolService_war_exploded\WEB-INF\lib\axis-wsdl4j-1.5.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolService_war_exploded\WEB-INF\lib\commons-discovery-0.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolService_war_exploded\WEB-INF\lib\commons-logging-1.0.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolService_war_exploded\WEB-INF\lib\log4j-1.2.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolService_war_exploded\WEB-INF\server-config.wsdd" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolService_war_exploded\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolService_war_exploded\WEB-INF\wsdl\TestToolService.wsdl" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\WEB-INF\lib\jsp-api-2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\WEB-INF\lib\jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\WEB-INF\lib\jstl-api-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\WEB-INF\lib\servlet-api-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\WEB-INF\lib\standard-1.0.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\WEB-INF\lib\xalan-2.6.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\about.jsp" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\contacts.jsp" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\css\layout.css" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\css\reset.css" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\bg_img - Copy.png" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\bg_img.png" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\bg_img2.png" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\bg_top.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\box1_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\box1_bot_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\box1_bot_left.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\box1_bot_right.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\box1_out_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\button1_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\button1_left.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\button1_right.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\button2_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\button2_left.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\button2_right.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\button3_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\button3_left.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\button3_right.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\icon1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\icon2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\icon3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\img1.png" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\img2.png" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\img3.png" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\input_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\line_hor1.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\marker_1.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\menu_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\menu_line.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\page1_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\page1_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\page1_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\page2_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\page2_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\page2_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\page2_img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\page3_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\page3_img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\page3_img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\page4_img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\images\textarea_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\inc\content.inc" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\inc\footer.inc" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\inc\top.inc" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\js\Myriad_Pro_300.font.js" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\js\Myriad_Pro_400.font.js" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\js\PIE.htc" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\js\cufon-replace.js" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\js\cufon-yui.js" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\js\html5.js" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\js\jquery-1.4.2.js" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\artifacts\TestToolSuite_Web_exploded\testtool.jsp" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\IConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\ITexts.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\TestTool$1.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\TestTool.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\AntwortDialog$1.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\AntwortDialog$2.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\AntwortDialog$3.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\AntwortDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\FragebogenDialog$1.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\FragebogenDialog$2.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\FragebogenDialog$3.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\FragebogenDialog$4.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\FragebogenDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\KandidatDialog$1.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\KandidatDialog$2.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\KandidatDialog$3.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\KandidatDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\OEFGAntwortDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\OEFGFragebogenDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\WFAAntwortDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\dialog\WFAFragebogenDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\document\FilterTextDocument.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\frame\OEFGTestToolFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\frame\SheetableFrame$AnimatingSheet.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\frame\SheetableFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\frame\StartFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\frame\StartFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\frame\StartFrame$3.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\frame\StartFrame$4.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\frame\StartFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\frame\TestToolFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\frame\TestToolFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\frame\TestToolFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\frame\WFATestToolFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\io\Adresse.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\io\Antwort.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\io\Fragebogen.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\io\Kandidat.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\AntwortList$1.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\AntwortList$2.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\AntwortList$AntwortenRenderer.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\AntwortList.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\FilterKandidatTable$1.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\FilterKandidatTable.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\FilterTextField$1.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\FilterTextField.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\FragebogenList$1.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\FragebogenList$2.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\FragebogenList$FragebogenRenderer.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\FragebogenList.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\KandidatTable$1.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\KandidatTable$KandidatCell$1.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\KandidatTable$KandidatCell$2.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\KandidatTable$KandidatCell$3.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\KandidatTable$KandidatCell$4.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\KandidatTable$KandidatCell.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\KandidatTable.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\OEFGAntwortList.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\list\WFAAntwortList.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\model\FilterKandidatTableModel.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\model\KandidatTableModel.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\panel\AntwortPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\panel\FragebogenPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\panel\GradientPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\panel\ImagePanel.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\panel\KandidatPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\panel\OEFGAntwortPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\panel\OEFGFragebogenPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\panel\WFAAntwortPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\panel\WFAFragebogenPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\tabs\FadingTabbedPane.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\tabs\InOutTabbedPane.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\tabs\TransitionTabbedPane.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\text\AntwortTextField$1.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\text\AntwortTextField$InputTextDocument.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\text\AntwortTextField.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\utils\PropertyHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\swing\utils\ResourceHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\ws\client\TestToolClient.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\ws\client\TestToolServiceService.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\ws\client\TestToolServiceServiceLocator.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\ws\client\TestToolServiceSoapBindingStub.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\at\oefg1880\ws\client\TestToolService_PortType.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\resources\config.properties" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\resources\oefg1880_logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\resources\oefg_favicon.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\resources\texts.properties" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\resources\texts_en.properties" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\resources\texts_ro.properties" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\resources\version.properties" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\resources\warn.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\resources\wfa_favicon.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\PC-TestTool\resources\wfa_logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\TestToolService\at\oefg1880\ws\server\TestToolService.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\production\TestToolService\resources\version.properties" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\out\test\PC-TestTool\at\oefg1880\swing\TestTextsProperties.class" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\compile\jsp-api-2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\compile\jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\compile\jstl-api-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\compile\servlet-api-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\compile\standard-1.0.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\compile\xalan-2.6.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\default\jsp-api-2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\default\jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\default\jstl-api-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\default\servlet-api-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\default\standard-1.0.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\default\xalan-2.6.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\test\jsp-api-2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\test\jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\test\jstl-api-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\test\servlet-api-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\test\standard-1.0.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\target\test\xalan-2.6.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\war\TestToolSuite.war" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\web\WEB-INF\lib\jsp-api-2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\web\WEB-INF\lib\jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\web\WEB-INF\lib\jstl-api-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\web\WEB-INF\lib\servlet-api-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\web\WEB-INF\lib\standard-1.0.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\web\WEB-INF\lib\xalan-2.6.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="B:\github\TestToolSuite\web\inc\content.inc" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestToolSuite.ipr" afterPath="$PROJECT_DIR$/TestToolSuite.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestToolSuite.iws" afterPath="$PROJECT_DIR$/TestToolSuite.iws" />
     </list>
     <ignored path="TestToolSuite.iws" />
@@ -121,7 +319,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="105" column="22" selection-start="1292" selection-end="1292" vertical-scroll-proportion="0.6947935">
+            <state line="93" column="25" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.32854578">
               <folding />
             </state>
           </provider>
@@ -140,15 +338,6 @@
         <entry file="file://$PROJECT_DIR$/web/contacts.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state line="45" column="40" selection-start="1869" selection-end="1869" vertical-scroll-proportion="-3.5769231">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testtool.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/testtool.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="18" selection-start="3364" selection-end="3364" vertical-scroll-proportion="-18.615385">
               <folding />
             </state>
           </provider>
@@ -327,29 +516,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestToolSuite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestToolSuite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="inc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -381,20 +548,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="war" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestToolSuite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestToolSuite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="build" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -403,10 +556,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="TestToolSuite" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestToolService" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -751,7 +900,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -773,7 +922,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21446079" sideWeight="0.218894" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21446079" sideWeight="0.44354838" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21446079" sideWeight="0.44354838" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32949308" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -815,7 +964,7 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="enhanced PiePlot to show correct section in green, wrong section in red" />
+    <option name="LAST_COMMIT_MESSAGE" value="included build directory and excluded out, classes, test-classes from git" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -833,6 +982,7 @@
     <MESSAGE value="need to look at testtoolservice war file" />
     <MESSAGE value="WebService test suceeded" />
     <MESSAGE value="enhanced PiePlot to show correct section in green, wrong section in red" />
+    <MESSAGE value="included build directory and excluded out, classes, test-classes from git" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -876,13 +1026,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.ivy2/my-resolver/taglibs/standard/jars/standard-1.0.4.jar!/META-INF/c.tld">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PC-TestTool/build/ivysettings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -988,7 +1131,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="22" selection-start="1292" selection-end="1292" vertical-scroll-proportion="0.6947935">
+        <state line="93" column="25" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.32854578">
           <folding />
         </state>
       </provider>
@@ -1055,11 +1198,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>PC-TestTool</last-edited>
+          <last-edited>TestToolSuite</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

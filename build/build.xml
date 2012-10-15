@@ -21,14 +21,10 @@
         <delete dir="${CLASSES_RESOURCE_DIR}"/>
         <delete dir="${CLASSES_DIR}"/>
         <delete dir="${TEST_CLASSES_DIR}"/>
-        <delete dir="${APP_LIB_DIR}"/>
-        <delete dir="${APP_DIR}"/>
-        <delete dir="${BIN_DIR}"/>
-        <delete dir="${LIB_DIR}"/>
-        <delete dir="${META_DIR}"/>
         <delete dir="${WAR_DIR}"/>
         <delete dir="${TARGET_DIR}"/>
         <delete dir="${RESULT_DIR}"/>
+        <delete dir="${WEB_INF_LIB_DIR}"/>
     </target>
 
     <target name="zip" unless="compile.prepare" depends="clean">

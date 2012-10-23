@@ -1,3 +1,7 @@
+<%@ page import="org.apache.log4j.Logger" %><%
+  final Logger log = Logger.getLogger(getClass());
+  log.debug("file: " + request.getRequestURI());
+%>
 <!DOCTYPE html>
 <html lang="en">
 <head>
